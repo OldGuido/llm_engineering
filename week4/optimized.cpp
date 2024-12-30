@@ -5,14 +5,14 @@
 #include <iomanip>
 
 using namespace std;
-using namespace chrono;
+using namespace std::chrono;
 
 class LCG {
 private:
     uint64_t value;
-    static const uint64_t a = 1664525;
-    static const uint64_t c = 1013904223;
-    static const uint64_t m = 1ULL << 32;
+    const uint64_t a = 1664525;
+    const uint64_t c = 1013904223;
+    const uint64_t m = 1ULL << 32;
 
 public:
     LCG(uint64_t seed) : value(seed) {}
