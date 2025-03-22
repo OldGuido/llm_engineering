@@ -34,5 +34,23 @@
     },
     "estimate": 2081.647127763905,
     "discount": 782.6471277639048
+  },
+  {
+    "deal": {
+      "product_description": "The Dell Inspiron 15 12th-Gen. i7 laptop is equipped with cutting-edge technology, featuring a powerful 12th generation Intel Core i7 processor paired with 16GB of RAM and a lightning-fast 1TB SSD. The 15.6\" IPS display boasts a resolution of 1920 x 1080, offering crisp visuals for both work and entertainment. This laptop is designed to handle multitasking and demanding applications with ease, making it ideal for professionals and students alike. It comes pre-installed with Windows 11 Home, ensuring a modern and user-friendly interface.",
+      "price": 450.0,
+      "url": "https://www.dealnews.com/products/Dell/Dell-Inspiron-15-12-th-Gen-i7-15-6-Laptop-w-16-GB-RAM-and-1-TB-SSD/475273.html?iref=rss-c39"
+    },
+    "estimate": 1080.9835711164533,
+    "discount": 630.9835711164533
+  },
+  {
+    "deal": {
+      "product_description": "Get the Refurb Unlocked Apple iPhone 13 128GB Smartphone for an unbeatable price of $260. This refurbished iPhone comes with a 1-year warranty, ensuring quality and performance. The device features Apple's impressive A15 Bionic chip, a beautifully designed OLED display, and an excellent dual-camera system for stunning photography. It's an excellent deal for anyone seeking a reliable smartphone at a great price.",
+      "price": 260.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-13-128-GB-Smartphone/425643.html?iref=rss-c142"
+    },
+    "estimate": 472.8318168038395,
+    "discount": 212.8318168038395
   }
 ]
